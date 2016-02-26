@@ -44,9 +44,9 @@
 /* 0 */
 /***/ function(module, exports) {
 
-	function foobar(cb) {
-	  cb(); // foo
-		} // barundefined
+	function foobar() {
+	  return; // foo
+		}undefined
 	
 
 /***/ }

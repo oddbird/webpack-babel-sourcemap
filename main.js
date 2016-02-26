@@ -1,4 +1,4 @@
-function foobar (cb) {
-  cb(); // foo
+function foobar () {
+  return; // foo
 
-} // bar
+}
